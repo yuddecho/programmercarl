@@ -19,3 +19,11 @@
 5 哈希表
 
 - [242 排序或数组统计有效字母异位词](https://leetcode.cn/problems/valid-anagram/solution/you-xiao-de-zi-mu-yi-wei-ci-by-leetcode-solution/)
+- [349 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/solution/liang-ge-shu-zu-de-jiao-ji-by-leetcode-solution/)
+- [350 两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/solution/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode-solution/)
+- [202 快乐数](https://leetcode.cn/problems/happy-number/solution/kuai-le-shu-by-leetcode-solution/)
+- [1 两数之和](https://leetcode.cn/problems/two-sum/solution/liang-shu-zhi-he-by-leetcode-solution/)
+- [454 四数相加 II](https://leetcode.cn/problems/4sum-ii/solution/si-shu-xiang-jia-ii-by-leetcode-solution/)
+- [383.赎金信(opens new window)](https://programmercarl.com/0383.赎金信.html)
+- 49.字母异位词分组
+- 438.找到字符串中所有字母异位词
